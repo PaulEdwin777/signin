@@ -1,0 +1,98 @@
+body{
+    font-family: 'Glass Antiqua', cursive;
+    margin: 0;
+    padding: 0;
+    background-image: url(../../IMAGES/Font\ Awesome.jpeg);
+    background-size: cover;
+    /* background-color: black; */
+    text-transform: uppercase;
+}
+
+.fa-face-smile-beam{
+    position: absolute;
+    color: yellow;
+    top: 18px;
+    left: 218px;
+    padding: 2px;
+    font-size: 20px;
+}
+#a{
+    position: relative;
+}
+h4{
+    margin: 0;
+}
+#main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+form{
+    background-color: white;
+    width: 30%;
+    border-radius: 10px;
+    padding: 20px;
+    height: 80%;
+}
+form #a{
+    background-color: white;
+    text-align: center;
+    width: 100%;
+}
+.block{
+    display: block;
+}
+form.nock{
+    height: 30px;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+#pass{
+    background-color: white;
+}
+#user{
+    background-color: white;
+}
+.nock{
+    color: black;
+    width: 100%;
+    border: 1px solid rgb(57, 57, 233);
+    border-radius: 20px;
+}
+#btn{
+    display: block;
+    width: 100%;
+    height: 40px;
+    color: blue;
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius: 10px;
+}
+#cred{
+    display: flex;
+    justify-content:baseline;
+}
+#opt{
+    display: flex;
+    justify-content: space-between;
+}
+.fa-right-to-bracket{
+    position: absolute;
+    top: -27px;
+  left: 262px;
+}
+#sn{
+    position: relative;
+}
+#opt h3{
+    margin-top: 0;
+}
+#cred a{
+    left: 187px;
+    position: relative;
+}
+a{
+    text-decoration: none;
+}
